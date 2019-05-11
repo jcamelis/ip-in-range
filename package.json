@@ -1,5 +1,5 @@
 {
-  "name": "ip-in-range",
+  "name": "@jcamelis/ip-in-range",
   "version": "1.0.0",
   "description": "check if an ip address in between a range",
   "main": "src/index.js",
