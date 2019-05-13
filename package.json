@@ -1,7 +1,7 @@
 {
   "name": "@jcamelis/ip-in-range",
   "version": "1.0.0",
-  "description": "check if an ip address in between a range",
+  "description": "check if an ip address is between a range",
   "main": "src/index.js",
   "scripts": {
     "test": "jasmine"
